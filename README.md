@@ -13,3 +13,5 @@ Foydalanish:
 Ilovani o'rnating.
 Testni yaratish va savollarni yechish uchun ilovadan foydalaning.
 Javoblarni kiritgandan so'ng, ilova natijalarni ko'rsatadi.
+..
+.....
